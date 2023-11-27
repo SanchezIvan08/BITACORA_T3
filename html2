@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ejemplo de HTML y CSS</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>MISMO CODIGO PERO NOMBRE DISTINTO</h1>
+  </header>
+
+  <section>
+    <p>¡Git es un sistema de control de versiones distribuido que se utiliza para el seguimiento de cambios en el código fuente durante el desarrollo de software. Fue creado por Linus Torvalds en 2005 y se ha convertido en una herramienta fundamental en el desarrollo de software colaborativo!</p>
+    <img src="img.png" alt="Descripción de la imagen">
+  </section>
+
+</body>
+</html>
